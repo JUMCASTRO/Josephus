@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Aplicacao
+comment0.text=\r\n\ Pede\ o\ numeros\ de\ individuos\ e\ o\ numero\ de\ passos\ para\ o\ usuario\ e\ verifica\ se\ os\ valores\ sao\ validos\r\n\ \r\n\ Diogo\ F.P.L\ Napolis,\ Joao\ Augusto\ Carrascoza,\ Julia\ Marques\ de\ Castro\r\n\ 19/06/2023\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ M\u00E9todo\ main\ -\ ponto\ de\ entrada\ do\ programa\r\n\ @param\ args\ Um\ par\u00E2metro\ (n\u00E3o\ utilizado\ neste\ caso)\r\n
+numComments=2
